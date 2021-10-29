@@ -1,0 +1,58 @@
+@font-face {
+    font-family: garden;
+    src: url(assets/garden.ttf);
+}
+
+header {
+    font-family: garden;
+    text-align: center;
+    font-size: 10vh;
+    color: white;
+
+}
+#skateboard {
+    justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#bio {
+    color: white;
+    font-family: Helvetica;
+    font-size: 2vh;
+    text-align: center;
+}
+
+#back {
+    color: white;
+    font-family: garden;
+    font-size: 2vh
+}
+
+#ritual{
+    font-family: garden;
+    font-size: 3vh;
+    color: black;
+    background-color: palegoldenrod;
+    height: 6vh;
+}
+
+#place{
+    font-family: garden;
+    font-size: 3vh;
+    color: black;
+    background-color: palegoldenrod;
+    height: 6vh;
+}
+
+#color{
+    font-family: garden;
+    font-size: 3vh;
+    color: black;
+    background-color: palegoldenrod;
+    height: 6vh;
+}
+body {
+    background-color: rgb(37, 37, 37);
+}
